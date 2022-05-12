@@ -5,7 +5,7 @@ body {
 }
 font-face {
   font-family: TitleCard;
-  src: url(fonts\sonic1.ttf);
+  src: url(fonts/sonic1.ttf);
 }
 
 * {

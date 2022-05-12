@@ -1,8 +1,0 @@
-@font-face {
-  font-family: TitleCard;
-  src: url(sonic1.ttf);
-}
-
-* {
-  font-family:TitleCard;
-}
