@@ -1,1 +1,2 @@
-# i am having a heart attack
+# rockymountain.zone
+Temporary W.I.P hosting.
